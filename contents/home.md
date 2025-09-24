@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently an algorithm engineer at Huawei Technologies Co., Ltd.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wuran1998@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.EM., Logistics Engineering and Management, School of Economics and Management, Southeast University, 2020—2023.\
+B.E., Finance, Jinling College, Nanjing University, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Operations Management | Forecasting | Nonlinear Systems | Economics | Platform Economics.
 
